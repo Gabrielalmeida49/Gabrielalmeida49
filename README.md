@@ -1,6 +1,6 @@
 ## Olá
 <br>
-Me chamo Gabriel silva sou programador full stach. <br>
+Me chamo Gabriel silva sou programador full stack. <br>
 Com aprendizado em varias tecnologias como:
 <br>
 <br>
