@@ -78,9 +78,9 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações moder
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielalmeida49&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielalmeida49&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalmeida49&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielalmeida49&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -95,11 +95,9 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações moder
 </p>
 
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/Gabrielalmeida49/Gabrielalmeida49/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-silva10)
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-silva10
 - 📧 Email: bielsilvalmeida8888@gmail.com
